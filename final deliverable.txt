@@ -1,4 +1,5 @@
 Group Project Final Deliverable
+
 Upload all group project materials into a GitHub repository. 
 Make sure to include a document (preferably as a README) that explains what problem your project is trying to solve and how it goes about solving it (no more than 2 pages). 
 Make sure to include all source code, data, links, references as appropriate. 
@@ -6,12 +7,14 @@ Make sure to include instructions on how I use your program.
 You may include screen shots of your program running and give instructions and explanations. Ideally, I should be able to use your program. 
 1 submission per group. 20 points for the final deliverables. 
 This item also includes peer rankings which is worth 100 points.
+
 You will be ranked based on these criteria:   
 (10) Originality
 (10) Problem (how complex is the problem you are trying to solve)
 (20) Solution (how novel and comprehensive the solution is)
 (20) Effort   (how much effort was put into the project)
 (10) Viability (how practical this solution is  for today or near future)
+
 For each area, you will receive a  grade in this rubric:
 5- Excellent
 4- Good
